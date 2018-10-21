@@ -2,7 +2,7 @@
 int main(){
     int i, count;
     for (i=0;i<5;i++){
-        count= count+1;
+        count *= i;
     }
     printf(count);
     printf("Surprise!");
