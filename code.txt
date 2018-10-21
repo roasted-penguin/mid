@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+    int i, count;
+    for (i=0;i<5;i++){
+        count++;
+    }
+    printf(count);
+}
