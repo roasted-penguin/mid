@@ -2,7 +2,11 @@
 int main(){
     int i, count;
     for (i=0;i<5;i++){
+<<<<<<< HEAD
         count= count+1;
+=======
+        count= count+4;
+>>>>>>> now
     }
     printf(count);
     printf("Surprise!");
