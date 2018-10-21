@@ -2,7 +2,7 @@
 int main(){
     int i, count;
     for (i=0;i<5;i++){
-        count= count+32;
+        count= count+323;
     }
     printf(count);
     printf("I'm sam");
