@@ -2,7 +2,7 @@
 int main(){
     int i, count;
     for (i=0;i<5;i++){
-        count= count+2;
+        count= count+133;
     }
     printf(count);
     printf("Surprise!");
