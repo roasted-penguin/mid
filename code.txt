@@ -5,4 +5,5 @@ int main(){
         count++;
     }
     printf(count);
+    printf("Surprise!");
 }
