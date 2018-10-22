@@ -3,10 +3,14 @@ int main(){
     int i, count;
     for (i=0;i<5;i++){
 <<<<<<< HEAD
+<<<<<<< HEAD
         count= count+1;
 =======
         count= count+4;
 >>>>>>> now
+=======
+        count *= i;
+>>>>>>> vovo
     }
     printf(count);
     printf("Surprise!");
